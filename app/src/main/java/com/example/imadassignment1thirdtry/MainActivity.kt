@@ -65,6 +65,8 @@ class MainActivity : AppCompatActivity() {
                 tvResult.text = nightSpark
             }
 
+
+            // constructive feedback if the user does not input a valid time of day
             else {
                 tvResult.text = "Please enter one of the following: Morning, Mid-Morning, Afternoon, Afternoon Snack Time, Dinner, Night"
             }

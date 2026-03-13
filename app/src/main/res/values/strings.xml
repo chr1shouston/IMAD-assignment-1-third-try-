@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">imad assignment 1 third try</string>
+    <string name="reset">Reset</string>
+    <string name="please_enter_the_time_of_day">`Please Enter The Time Of Day</string>
+    <string name="tap_to_display_your_spark">Tap To Display Your Spark</string>
+    <string name="your_spark_will_display_here">Your Spark Will Display Here!</string>
 </resources>
