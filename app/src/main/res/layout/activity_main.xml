@@ -9,18 +9,17 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:background="@color/lightPink"
-        android:textSize="24sp"
         android:id="@+id/tvResult"
         android:layout_width="309dp"
         android:layout_height="245dp"
+        android:background="@color/lightPink"
         android:text="@string/your_spark_will_display_here"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.392" />
+        app:layout_constraintVertical_bias="0.399" />
 
     <Button
         android:id="@+id/btnCalculate"
@@ -30,10 +29,10 @@
         android:text="@string/tap_to_display_your_spark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.491"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754" />
+        app:layout_constraintVertical_bias="0.726" />
 
     <Button
 
