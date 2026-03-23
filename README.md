@@ -134,3 +134,7 @@ Improves overall code quality
 Youtube video showcase:
 https://www.youtube.com/watch?v=0bjuXXxG4cc
 
+
+I got the phone background from this website:
+https://www.freepik.com/free-photo/watercolor-floral-border-with-pink-purple-flowers-light-background_272783075.htm#fromView=search&page=1&position=2&uuid=d0cf757f-edef-4804-a18c-71597c730c4c&query=pink+flower+background
+
